@@ -1,0 +1,5 @@
+python 3.10.1
+poetry 1.2.0a2
+nodejs 17.2.0
+pnpm 6.24.0-0
+direnv 2.29.0

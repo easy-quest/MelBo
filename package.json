@@ -1,0 +1,23 @@
+{
+  "name": "melbo",
+  "version": "1.0.0",
+  "description": "## **MelBo** - немножко бот для Вконтакте. --- ### Запуск MelBo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radmirkus/MelBo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Radmirkus/MelBo/issues"
+  },
+  "homepage": "https://github.com/Radmirkus/MelBo#readme",
+  "dependencies": {
+    "pyright": "^1.1.194"
+  }
+}
